@@ -1,0 +1,15 @@
+.home>div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    padding: 7px;
+    background-color: aquamarine;
+    width: 300px;
+    margin-bottom: 10px;
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
