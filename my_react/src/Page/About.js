@@ -1,7 +1,10 @@
+import Menu from "../components/Menu"
+
 const About=()=>{
     return(
         <>
-            <div>About</div>
+            <Menu/>
+            <h1>About</h1>
         </>
     )
 }
